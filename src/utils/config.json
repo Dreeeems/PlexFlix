@@ -1,0 +1,4 @@
+{
+  "adress": "Your Plex adress eg : http://localhost:port",
+  "token": "Your Plex token"
+}
